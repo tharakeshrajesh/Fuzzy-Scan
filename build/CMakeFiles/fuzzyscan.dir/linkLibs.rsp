@@ -1,0 +1,1 @@
+  -L"D:/Tharakesh/Scripts/Fuzzy Scan/third_party/glfw/lib"  -L/mingw64/lib  -lopengl32 -lglu32 -luser32 -lgdi32 -lshell32 -ldwmapi -lglfw3 "D:/Tharakesh/Scripts/Fuzzy Scan/third_party/ssdeep/fuzzy.lib" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
