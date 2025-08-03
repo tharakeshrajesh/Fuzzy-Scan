@@ -4,11 +4,16 @@ project(FuzzyScan)
 set(CMAKE_CXX_STANDARD 17)
 
 include_directories(
+    ${CMAKE_SOURCE_DIR}/third_party/imgui
     third_party/imgui
     third_party/imgui/backends
     third_party/ssdeep
     ${CMAKE_SOURCE_DIR}/third_party/glfw/include
     /mingw64/include
+)
+
+set_target_properties(MyApp PROPERTIES
+    LINK_FLAGS "-mwindows"
 )
 
 link_directories(${CMAKE_SOURCE_DIR}/third_party/glfw/lib

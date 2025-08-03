@@ -1,3 +1,8 @@
+# bash script
+
+clear
+rm -rf /d/Tharakesh/Scripts/Fuzzy\ Scan/build
+mkdir /d/Tharakesh/Scripts/Fuzzy\ Scan/build
 cd /d/Tharakesh/Scripts/Fuzzy\ Scan/build
 cmake -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release ..
 mingw32-make

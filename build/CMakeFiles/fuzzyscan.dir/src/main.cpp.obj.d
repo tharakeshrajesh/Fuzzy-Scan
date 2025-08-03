@@ -1,44 +1,15 @@
 CMakeFiles/fuzzyscan.dir/src/main.cpp.obj: \
  D:\Tharakesh\Scripts\Fuzzy\ Scan\src\main.cpp \
- D:\Tharakesh\Scripts\Fuzzy\ Scan\src\imgui.h \
- D:\Tharakesh\Scripts\Fuzzy\ Scan\src\imconfig.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/float.h \
- C:/msys64/mingw64/include/float.h C:/msys64/mingw64/include/crtdefs.h \
- C:/msys64/mingw64/include/corecrt.h C:/msys64/mingw64/include/_mingw.h \
+ C:/msys64/mingw64/include/windows.h C:/msys64/mingw64/include/_mingw.h \
  C:/msys64/mingw64/include/_mingw_mac.h \
  C:/msys64/mingw64/include/_mingw_secapi.h \
  C:/msys64/mingw64/include/vadefs.h \
  C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
+ C:/msys64/mingw64/include/sdkddkver.h C:/msys64/mingw64/include/excpt.h \
+ C:/msys64/mingw64/include/crtdefs.h C:/msys64/mingw64/include/corecrt.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdarg.h \
  C:/msys64/mingw64/include/stdarg.h \
  C:/msys64/mingw64/include/_mingw_stdarg.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stddef.h \
- C:/msys64/mingw64/include/stddef.h C:/msys64/mingw64/include/string.h \
- C:/msys64/mingw64/include/sec_api/string_s.h \
- C:/msys64/mingw64/include/assert.h \
- C:/msys64/mingw64/include/c++/15.1.0/stdlib.h \
- C:/msys64/mingw64/include/c++/15.1.0/cstdlib \
- C:/msys64/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \
- C:/msys64/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/os_defines.h \
- C:/msys64/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
- C:/msys64/mingw64/include/c++/15.1.0/pstl/pstl_config.h \
- C:/msys64/mingw64/include/stdlib.h \
- C:/msys64/mingw64/include/corecrt_wstdlib.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/limits.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/syslimits.h \
- C:/msys64/mingw64/include/limits.h \
- C:/msys64/mingw64/include/sec_api/stdlib_s.h \
- C:/msys64/mingw64/include/malloc.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/mm_malloc.h \
- C:/msys64/mingw64/include/errno.h \
- C:/msys64/mingw64/include/c++/15.1.0/bits/std_abs.h \
- D:/Tharakesh/Scripts/Fuzzy\ Scan/third_party/imgui/backends/imgui_impl_win32.h \
- D:/Tharakesh/Scripts/Fuzzy\ Scan/third_party/imgui/backends/imgui_impl_opengl3.h \
- C:/msys64/mingw64/include/GLFW/glfw3.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdint.h \
- C:/msys64/mingw64/include/stdint.h C:/msys64/mingw64/include/GL/gl.h \
- C:/msys64/mingw64/include/windows.h \
- C:/msys64/mingw64/include/sdkddkver.h C:/msys64/mingw64/include/excpt.h \
  C:/msys64/mingw64/include/windef.h \
  C:/msys64/mingw64/include/winapifamily.h \
  C:/msys64/mingw64/include/minwindef.h \
@@ -52,9 +23,13 @@ CMakeFiles/fuzzyscan.dir/src/main.cpp.obj: \
  C:/msys64/mingw64/include/apiset.h \
  C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
  C:/msys64/mingw64/include/basetsd.h C:/msys64/mingw64/include/guiddef.h \
+ C:/msys64/mingw64/include/string.h \
+ C:/msys64/mingw64/include/sec_api/string_s.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/x86intrin.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/x86gprintrin.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/ia32intrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stddef.h \
+ C:/msys64/mingw64/include/stddef.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/adxintrin.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/bmiintrin.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/bmi2intrin.h \
@@ -95,6 +70,22 @@ CMakeFiles/fuzzyscan.dir/src/main.cpp.obj: \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/immintrin.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/mmintrin.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/xmmintrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/mm_malloc.h \
+ C:/msys64/mingw64/include/c++/15.1.0/stdlib.h \
+ C:/msys64/mingw64/include/c++/15.1.0/cstdlib \
+ C:/msys64/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/msys64/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/msys64/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/msys64/mingw64/include/c++/15.1.0/pstl/pstl_config.h \
+ C:/msys64/mingw64/include/stdlib.h \
+ C:/msys64/mingw64/include/corecrt_wstdlib.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/limits.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/syslimits.h \
+ C:/msys64/mingw64/include/limits.h \
+ C:/msys64/mingw64/include/sec_api/stdlib_s.h \
+ C:/msys64/mingw64/include/malloc.h \
+ C:/msys64/mingw64/include/c++/15.1.0/bits/std_abs.h \
+ C:/msys64/mingw64/include/errno.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/emmintrin.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/pmmintrin.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/tmmintrin.h \
@@ -266,4 +257,10 @@ CMakeFiles/fuzzyscan.dir/src/main.cpp.obj: \
  C:/msys64/mingw64/include/commdlg.h C:/msys64/mingw64/include/stralign.h \
  C:/msys64/mingw64/include/sec_api/stralign_s.h \
  C:/msys64/mingw64/include/winsvc.h C:/msys64/mingw64/include/mcx.h \
- C:/msys64/mingw64/include/imm.h
+ C:/msys64/mingw64/include/imm.h C:/msys64/mingw64/include/GL/gl.h \
+ D:/Tharakesh/Scripts/Fuzzy\ Scan/third_party/imgui/imgui.h \
+ D:/Tharakesh/Scripts/Fuzzy\ Scan/third_party/imgui/imconfig.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/float.h \
+ C:/msys64/mingw64/include/float.h C:/msys64/mingw64/include/assert.h \
+ D:/Tharakesh/Scripts/Fuzzy\ Scan/third_party/imgui/backends/imgui_impl_win32.h \
+ D:/Tharakesh/Scripts/Fuzzy\ Scan/third_party/imgui/backends/imgui_impl_opengl3.h
