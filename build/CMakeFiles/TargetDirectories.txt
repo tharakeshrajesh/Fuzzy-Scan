@@ -1,3 +1,0 @@
-D:/Tharakesh/Scripts/Fuzzy Scan/build/CMakeFiles/fuzzyscan.dir
-D:/Tharakesh/Scripts/Fuzzy Scan/build/CMakeFiles/edit_cache.dir
-D:/Tharakesh/Scripts/Fuzzy Scan/build/CMakeFiles/rebuild_cache.dir

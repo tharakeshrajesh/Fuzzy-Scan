@@ -1,1 +1,0 @@
-export PATH="D:\Tharakesh\Scripts\Fuzzy Scan\bin\:$PATH"
